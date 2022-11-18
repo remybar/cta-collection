@@ -1,0 +1,2697 @@
+[
+  {
+    "id": 1,
+    "card_name": "Solis",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "LIGHT",
+    "rarity": "MYTHIC",
+    "base_power": 580,
+    "additional_power": 0,
+    "total_count": 4151,
+    "supply_percent": 20.76,
+    "ranks": {
+      "1": { "count": 4133, "min_number": 1, "max_number": 5000 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 4, "min_number": 1763, "max_number": 2879 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 14, "min_number": 1478, "max_number": 4818 }
+    }
+  },
+  {
+    "id": 2,
+    "card_name": "Solis",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "LIGHT",
+    "rarity": "MYTHIC",
+    "base_power": 580,
+    "additional_power": 80,
+    "total_count": 96,
+    "supply_percent": 0.96,
+    "grades": {
+      "C": { "count": 57, "min_number": 5, "max_number": 129 },
+      "B": { "count": 24, "min_number": 7, "max_number": 130 },
+      "A": { "count": 14, "min_number": 8, "max_number": 120 },
+      "S": { "count": 1, "min_number": 85, "max_number": 85 }
+    }
+  },
+  {
+    "id": 3,
+    "card_name": "Phoenix",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "RARE",
+    "base_power": 525,
+    "additional_power": 0,
+    "total_count": 2840,
+    "supply_percent": 1.89,
+    "ranks": {
+      "1": { "count": 2826, "min_number": 1, "max_number": 10191 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 2, "min_number": 5858, "max_number": 7638 },
+      "4": { "count": 3, "min_number": 3427, "max_number": 5816 },
+      "5": { "count": 9, "min_number": 788, "max_number": 7308 }
+    }
+  },
+  {
+    "id": 4,
+    "card_name": "Phoenix",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "RARE",
+    "base_power": 525,
+    "additional_power": 80,
+    "total_count": 30,
+    "supply_percent": 0.06,
+    "grades": {
+      "C": { "count": 16, "min_number": 1, "max_number": 52 },
+      "B": { "count": 10, "min_number": 2, "max_number": 53 },
+      "A": { "count": 3, "min_number": 9, "max_number": 41 },
+      "S": { "count": 1, "min_number": 12, "max_number": 12 }
+    }
+  },
+  {
+    "id": 5,
+    "card_name": "Calyps",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "MYTHIC",
+    "base_power": 600,
+    "additional_power": 0,
+    "total_count": 4120,
+    "supply_percent": 20.6,
+    "ranks": {
+      "1": { "count": 4104, "min_number": 1, "max_number": 5000 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 3, "min_number": 2111, "max_number": 2879 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 13, "min_number": 1703, "max_number": 4379 }
+    }
+  },
+  {
+    "id": 6,
+    "card_name": "Calyps",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "MYTHIC",
+    "base_power": 600,
+    "additional_power": 80,
+    "total_count": 73,
+    "supply_percent": 0.73,
+    "grades": {
+      "C": { "count": 40, "min_number": 7, "max_number": 81 },
+      "B": { "count": 23, "min_number": 5, "max_number": 85 },
+      "A": { "count": 9, "min_number": 6, "max_number": 83 },
+      "S": { "count": 1, "min_number": 36, "max_number": 36 }
+    }
+  },
+  {
+    "id": 7,
+    "card_name": "Water Snake",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "UNCOMMON",
+    "base_power": 520,
+    "additional_power": 0,
+    "total_count": 1660,
+    "supply_percent": 0.42,
+    "ranks": {
+      "1": { "count": 1656, "min_number": 1, "max_number": 17840 },
+      "2": { "count": 2, "min_number": 756, "max_number": 1825 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 2, "min_number": 2099, "max_number": 17482 }
+    }
+  },
+  {
+    "id": 8,
+    "card_name": "Water Snake",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "UNCOMMON",
+    "base_power": 520,
+    "additional_power": 80,
+    "total_count": 9,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 6, "min_number": 6, "max_number": 22 },
+      "B": { "count": 2, "min_number": 10, "max_number": 16 },
+      "A": { "count": 1, "min_number": 3, "max_number": 3 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 9,
+    "card_name": "Shado",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "DARKNESS",
+    "rarity": "MYTHIC",
+    "base_power": 590,
+    "additional_power": 0,
+    "total_count": 4137,
+    "supply_percent": 20.69,
+    "ranks": {
+      "1": { "count": 4115, "min_number": 1, "max_number": 5001 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 9, "min_number": 2111, "max_number": 4582 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 13, "min_number": 2591, "max_number": 4780 }
+    }
+  },
+  {
+    "id": 10,
+    "card_name": "Shado",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "DARKNESS",
+    "rarity": "MYTHIC",
+    "base_power": 590,
+    "additional_power": 80,
+    "total_count": 118,
+    "supply_percent": 1.18,
+    "grades": {
+      "C": { "count": 64, "min_number": 5, "max_number": 138 },
+      "B": { "count": 36, "min_number": 6, "max_number": 130 },
+      "A": { "count": 15, "min_number": 9, "max_number": 134 },
+      "S": { "count": 3, "min_number": 91, "max_number": 118 }
+    }
+  },
+  {
+    "id": 11,
+    "card_name": "Black Amber",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "DARKNESS",
+    "rarity": "RARE",
+    "base_power": 530,
+    "additional_power": 0,
+    "total_count": 2827,
+    "supply_percent": 1.88,
+    "ranks": {
+      "1": { "count": 2816, "min_number": 1, "max_number": 10144 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 2, "min_number": 4674, "max_number": 5777 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 9, "min_number": 2288, "max_number": 7362 }
+    }
+  },
+  {
+    "id": 12,
+    "card_name": "Black Amber",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "DARKNESS",
+    "rarity": "RARE",
+    "base_power": 530,
+    "additional_power": 80,
+    "total_count": 24,
+    "supply_percent": 0.05,
+    "grades": {
+      "C": { "count": 12, "min_number": 4, "max_number": 37 },
+      "B": { "count": 9, "min_number": 1, "max_number": 29 },
+      "A": { "count": 2, "min_number": 31, "max_number": 35 },
+      "S": { "count": 1, "min_number": 13, "max_number": 13 }
+    }
+  },
+  {
+    "id": 13,
+    "card_name": "Tumul",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "EARTH",
+    "rarity": "ULTRA_RARE",
+    "base_power": 570,
+    "additional_power": 0,
+    "total_count": 2633,
+    "supply_percent": 4.39,
+    "ranks": {
+      "1": { "count": 2620, "min_number": 1, "max_number": 4894 },
+      "2": { "count": 1, "min_number": 2826, "max_number": 2826 },
+      "3": { "count": 1, "min_number": 3494, "max_number": 3494 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 11, "min_number": 1448, "max_number": 4132 }
+    }
+  },
+  {
+    "id": 14,
+    "card_name": "Tumul",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "EARTH",
+    "rarity": "ULTRA_RARE",
+    "base_power": 570,
+    "additional_power": 80,
+    "total_count": 28,
+    "supply_percent": 0.09,
+    "grades": {
+      "C": { "count": 21, "min_number": 2, "max_number": 37 },
+      "B": { "count": 5, "min_number": 5, "max_number": 26 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 2, "min_number": 11, "max_number": 27 }
+    }
+  },
+  {
+    "id": 15,
+    "card_name": "Brinhold",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "MYTHIC",
+    "base_power": 585,
+    "additional_power": 0,
+    "total_count": 4101,
+    "supply_percent": 20.51,
+    "ranks": {
+      "1": { "count": 4086, "min_number": 1, "max_number": 4999 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 3, "min_number": 3304, "max_number": 4581 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 12, "min_number": 1541, "max_number": 4501 }
+    }
+  },
+  {
+    "id": 16,
+    "card_name": "Brinhold",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "MYTHIC",
+    "base_power": 585,
+    "additional_power": 80,
+    "total_count": 98,
+    "supply_percent": 0.98,
+    "grades": {
+      "C": { "count": 55, "min_number": 5, "max_number": 128 },
+      "B": { "count": 30, "min_number": 7, "max_number": 122 },
+      "A": { "count": 11, "min_number": 9, "max_number": 123 },
+      "S": { "count": 2, "min_number": 48, "max_number": 55 }
+    }
+  },
+  {
+    "id": 17,
+    "card_name": "Solis + Hannibal",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "LIGHT",
+    "rarity": "MYTHIC",
+    "base_power": 580,
+    "additional_power": 105,
+    "total_count": 3,
+    "supply_percent": 0.06,
+    "grades": {
+      "C": { "count": 1, "min_number": 9, "max_number": 9 },
+      "B": { "count": 2, "min_number": 5, "max_number": 8 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 18,
+    "card_name": "Brinhold + Amrok",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "AIR",
+    "rarity": "MYTHIC",
+    "base_power": 585,
+    "additional_power": 105,
+    "total_count": 16,
+    "supply_percent": 0.32,
+    "grades": {
+      "C": { "count": 8, "min_number": 5, "max_number": 30 },
+      "B": { "count": 5, "min_number": 7, "max_number": 32 },
+      "A": { "count": 2, "min_number": 20, "max_number": 21 },
+      "S": { "count": 1, "min_number": 22, "max_number": 22 }
+    }
+  },
+  {
+    "id": 19,
+    "card_name": "Shado + Solis",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "DARKNESS",
+    "rarity": "MYTHIC",
+    "base_power": 590,
+    "additional_power": 105,
+    "total_count": 4,
+    "supply_percent": 0.08,
+    "grades": {
+      "C": { "count": 4, "min_number": 6, "max_number": 10 },
+      "B": { "count": 0, "min_number": null, "max_number": null },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 20,
+    "card_name": "Hanzo",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "EARTH",
+    "rarity": "UNCOMMON",
+    "base_power": 500,
+    "additional_power": 0,
+    "total_count": 1674,
+    "supply_percent": 0.42,
+    "ranks": {
+      "1": { "count": 1669, "min_number": 1, "max_number": 17642 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 2, "min_number": 3039, "max_number": 9884 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 3, "min_number": 3517, "max_number": 10226 }
+    }
+  },
+  {
+    "id": 21,
+    "card_name": "Hanzo",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "EARTH",
+    "rarity": "UNCOMMON",
+    "base_power": 500,
+    "additional_power": 80,
+    "total_count": 22,
+    "supply_percent": 0.02,
+    "grades": {
+      "C": { "count": 13, "min_number": 1, "max_number": 44 },
+      "B": { "count": 7, "min_number": 3, "max_number": 58 },
+      "A": { "count": 2, "min_number": 26, "max_number": 57 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 22,
+    "card_name": "Ruby",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "RARE",
+    "base_power": 535,
+    "additional_power": 0,
+    "total_count": 2807,
+    "supply_percent": 1.87,
+    "ranks": {
+      "1": { "count": 2798, "min_number": 1, "max_number": 10133 },
+      "2": { "count": 1, "min_number": 930, "max_number": 930 },
+      "3": { "count": 1, "min_number": 6454, "max_number": 6454 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 7, "min_number": 2785, "max_number": 5044 }
+    }
+  },
+  {
+    "id": 23,
+    "card_name": "Ruby",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "RARE",
+    "base_power": 535,
+    "additional_power": 80,
+    "total_count": 22,
+    "supply_percent": 0.04,
+    "grades": {
+      "C": { "count": 11, "min_number": 5, "max_number": 35 },
+      "B": { "count": 6, "min_number": 14, "max_number": 57 },
+      "A": { "count": 5, "min_number": 13, "max_number": 43 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 24,
+    "card_name": "ValRed",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "LIGHT",
+    "rarity": "RARE",
+    "base_power": 545,
+    "additional_power": 0,
+    "total_count": 2842,
+    "supply_percent": 1.89,
+    "ranks": {
+      "1": { "count": 2825, "min_number": 1, "max_number": 10133 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 2, "min_number": 4718, "max_number": 6590 },
+      "5": { "count": 15, "min_number": 2360, "max_number": 8138 }
+    }
+  },
+  {
+    "id": 25,
+    "card_name": "ValRed",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "LIGHT",
+    "rarity": "RARE",
+    "base_power": 545,
+    "additional_power": 80,
+    "total_count": 41,
+    "supply_percent": 0.08,
+    "grades": {
+      "C": { "count": 22, "min_number": 3, "max_number": 82 },
+      "B": { "count": 10, "min_number": 5, "max_number": 81 },
+      "A": { "count": 8, "min_number": 16, "max_number": 76 },
+      "S": { "count": 1, "min_number": 21, "max_number": 21 }
+    }
+  },
+  {
+    "id": 26,
+    "card_name": "Ronan",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "UNCOMMON",
+    "base_power": 490,
+    "additional_power": 0,
+    "total_count": 1655,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1650, "min_number": 1, "max_number": 17551 },
+      "2": { "count": 2, "min_number": 7062, "max_number": 14088 },
+      "3": { "count": 1, "min_number": 6381, "max_number": 6381 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 2, "min_number": 4745, "max_number": 7290 }
+    }
+  },
+  {
+    "id": 27,
+    "card_name": "Ronan",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "UNCOMMON",
+    "base_power": 490,
+    "additional_power": 80,
+    "total_count": 13,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 7, "min_number": 3, "max_number": 38 },
+      "B": { "count": 6, "min_number": 8, "max_number": 25 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 28,
+    "card_name": "Hanzo + ValRed",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "EARTH",
+    "rarity": "RARE",
+    "base_power": 545,
+    "additional_power": 105,
+    "total_count": 7,
+    "supply_percent": 0.03,
+    "grades": {
+      "C": { "count": 2, "min_number": 4, "max_number": 6 },
+      "B": { "count": 2, "min_number": 5, "max_number": 19 },
+      "A": { "count": 1, "min_number": 13, "max_number": 13 },
+      "S": { "count": 2, "min_number": 9, "max_number": 20 }
+    }
+  },
+  {
+    "id": 29,
+    "card_name": "Ruby + Ronan",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "AIR",
+    "rarity": "RARE",
+    "base_power": 535,
+    "additional_power": 105,
+    "total_count": 3,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 2, "min_number": 6, "max_number": 9 },
+      "B": { "count": 0, "min_number": null, "max_number": null },
+      "A": { "count": 1, "min_number": 5, "max_number": 5 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 30,
+    "card_name": "Lena",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "COMMON",
+    "base_power": 450,
+    "additional_power": 0,
+    "total_count": 2648,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2641, "min_number": 1, "max_number": 45242 },
+      "2": { "count": 2, "min_number": 971, "max_number": 31685 },
+      "3": { "count": 1, "min_number": 21115, "max_number": 21115 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 4, "min_number": 1667, "max_number": 29675 }
+    }
+  },
+  {
+    "id": 31,
+    "card_name": "Lena",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "COMMON",
+    "base_power": 450,
+    "additional_power": 80,
+    "total_count": 17,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 9, "min_number": 4, "max_number": 38 },
+      "B": { "count": 4, "min_number": 2, "max_number": 34 },
+      "A": { "count": 3, "min_number": 5, "max_number": 26 },
+      "S": { "count": 1, "min_number": 15, "max_number": 15 }
+    }
+  },
+  {
+    "id": 32,
+    "card_name": "Locke",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "COMMON",
+    "base_power": 450,
+    "additional_power": 0,
+    "total_count": 2637,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2629, "min_number": 1, "max_number": 45241 },
+      "2": { "count": 2, "min_number": 17153, "max_number": 28088 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 6, "min_number": 7715, "max_number": 24539 }
+    }
+  },
+  {
+    "id": 33,
+    "card_name": "Locke",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "COMMON",
+    "base_power": 450,
+    "additional_power": 80,
+    "total_count": 22,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 14, "min_number": 3, "max_number": 53 },
+      "B": { "count": 5, "min_number": 16, "max_number": 49 },
+      "A": { "count": 2, "min_number": 41, "max_number": 61 },
+      "S": { "count": 1, "min_number": 39, "max_number": 39 }
+    }
+  },
+  {
+    "id": 34,
+    "card_name": "Eren",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "COMMON",
+    "base_power": 480,
+    "additional_power": 0,
+    "total_count": 2641,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2639, "min_number": 1, "max_number": 45240 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 2, "min_number": 16778, "max_number": 19044 }
+    }
+  },
+  {
+    "id": 35,
+    "card_name": "Eren",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "COMMON",
+    "base_power": 480,
+    "additional_power": 80,
+    "total_count": 9,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 6, "min_number": 1, "max_number": 14 },
+      "B": { "count": 2, "min_number": 8, "max_number": 10 },
+      "A": { "count": 1, "min_number": 5, "max_number": 5 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 36,
+    "card_name": "Astrid",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "LIGHT",
+    "rarity": "UNCOMMON",
+    "base_power": 500,
+    "additional_power": 0,
+    "total_count": 1659,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1656, "min_number": 1, "max_number": 17840 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 3, "min_number": 2632, "max_number": 9748 }
+    }
+  },
+  {
+    "id": 37,
+    "card_name": "Astrid",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "LIGHT",
+    "rarity": "UNCOMMON",
+    "base_power": 500,
+    "additional_power": 80,
+    "total_count": 18,
+    "supply_percent": 0.02,
+    "grades": {
+      "C": { "count": 10, "min_number": 3, "max_number": 24 },
+      "B": { "count": 4, "min_number": 1, "max_number": 13 },
+      "A": { "count": 2, "min_number": 4, "max_number": 15 },
+      "S": { "count": 2, "min_number": 16, "max_number": 29 }
+    }
+  },
+  {
+    "id": 38,
+    "card_name": "Locke + Astrid",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "AIR",
+    "rarity": "UNCOMMON",
+    "base_power": 500,
+    "additional_power": 105,
+    "total_count": 4,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 1, "min_number": 3, "max_number": 3 },
+      "B": { "count": 2, "min_number": 2, "max_number": 5 },
+      "A": { "count": 1, "min_number": 1, "max_number": 1 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 39,
+    "card_name": "Aurelius",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "EARTH",
+    "rarity": "RARE",
+    "base_power": 550,
+    "additional_power": 0,
+    "total_count": 2836,
+    "supply_percent": 1.89,
+    "ranks": {
+      "1": { "count": 2814, "min_number": 1, "max_number": 10190 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 4, "min_number": 5891, "max_number": 7641 },
+      "4": { "count": 1, "min_number": 6353, "max_number": 6353 },
+      "5": { "count": 17, "min_number": 1867, "max_number": 9767 }
+    }
+  },
+  {
+    "id": 40,
+    "card_name": "Aurelius",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "EARTH",
+    "rarity": "RARE",
+    "base_power": 550,
+    "additional_power": 80,
+    "total_count": 20,
+    "supply_percent": 0.04,
+    "grades": {
+      "C": { "count": 8, "min_number": 4, "max_number": 43 },
+      "B": { "count": 7, "min_number": 7, "max_number": 41 },
+      "A": { "count": 5, "min_number": 27, "max_number": 38 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 41,
+    "card_name": "Keya",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "RARE",
+    "base_power": 545,
+    "additional_power": 0,
+    "total_count": 2756,
+    "supply_percent": 1.84,
+    "ranks": {
+      "1": { "count": 2745, "min_number": 1, "max_number": 10096 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 1, "min_number": 8884, "max_number": 8884 },
+      "4": { "count": 1, "min_number": 8052, "max_number": 8052 },
+      "5": { "count": 9, "min_number": 930, "max_number": 7508 }
+    }
+  },
+  {
+    "id": 42,
+    "card_name": "Keya",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "RARE",
+    "base_power": 545,
+    "additional_power": 80,
+    "total_count": 35,
+    "supply_percent": 0.07,
+    "grades": {
+      "C": { "count": 22, "min_number": 3, "max_number": 54 },
+      "B": { "count": 7, "min_number": 10, "max_number": 40 },
+      "A": { "count": 4, "min_number": 24, "max_number": 36 },
+      "S": { "count": 2, "min_number": 37, "max_number": 47 }
+    }
+  },
+  {
+    "id": 43,
+    "card_name": "Honora",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "UNCOMMON",
+    "base_power": 510,
+    "additional_power": 0,
+    "total_count": 1675,
+    "supply_percent": 0.42,
+    "ranks": {
+      "1": { "count": 1671, "min_number": 1, "max_number": 17856 },
+      "2": { "count": 1, "min_number": 11481, "max_number": 11481 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 1, "min_number": 10938, "max_number": 10938 },
+      "5": { "count": 2, "min_number": 10876, "max_number": 12014 }
+    }
+  },
+  {
+    "id": 44,
+    "card_name": "Honora",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "UNCOMMON",
+    "base_power": 510,
+    "additional_power": 80,
+    "total_count": 10,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 4, "min_number": 1, "max_number": 19 },
+      "B": { "count": 5, "min_number": 2, "max_number": 22 },
+      "A": { "count": 1, "min_number": 10, "max_number": 10 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 45,
+    "card_name": "Sarash",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "MYTHIC",
+    "base_power": 595,
+    "additional_power": 0,
+    "total_count": 4097,
+    "supply_percent": 20.49,
+    "ranks": {
+      "1": { "count": 4075, "min_number": 1, "max_number": 5000 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 6, "min_number": 2656, "max_number": 3348 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 16, "min_number": 1996, "max_number": 4812 }
+    }
+  },
+  {
+    "id": 46,
+    "card_name": "Sarash",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "MYTHIC",
+    "base_power": 595,
+    "additional_power": 80,
+    "total_count": 79,
+    "supply_percent": 0.79,
+    "grades": {
+      "C": { "count": 56, "min_number": 5, "max_number": 93 },
+      "B": { "count": 10, "min_number": 27, "max_number": 94 },
+      "A": { "count": 11, "min_number": 6, "max_number": 76 },
+      "S": { "count": 2, "min_number": 14, "max_number": 26 }
+    }
+  },
+  {
+    "id": 47,
+    "card_name": "Veliva",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "ULTRA_RARE",
+    "base_power": 560,
+    "additional_power": 0,
+    "total_count": 2547,
+    "supply_percent": 4.25,
+    "ranks": {
+      "1": { "count": 2538, "min_number": 1, "max_number": 4868 },
+      "2": { "count": 1, "min_number": 2280, "max_number": 2280 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 8, "min_number": 1632, "max_number": 4255 }
+    }
+  },
+  {
+    "id": 48,
+    "card_name": "Veliva",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "ULTRA_RARE",
+    "base_power": 560,
+    "additional_power": 80,
+    "total_count": 14,
+    "supply_percent": 0.05,
+    "grades": {
+      "C": { "count": 7, "min_number": 5, "max_number": 21 },
+      "B": { "count": 6, "min_number": 6, "max_number": 22 },
+      "A": { "count": 1, "min_number": 9, "max_number": 9 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 49,
+    "card_name": "Faustus",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "DARKNESS",
+    "rarity": "RARE",
+    "base_power": 545,
+    "additional_power": 0,
+    "total_count": 2819,
+    "supply_percent": 1.88,
+    "ranks": {
+      "1": { "count": 2805, "min_number": 1, "max_number": 10140 },
+      "2": { "count": 2, "min_number": 5719, "max_number": 8397 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 1, "min_number": 4115, "max_number": 4115 },
+      "5": { "count": 11, "min_number": 930, "max_number": 9148 }
+    }
+  },
+  {
+    "id": 50,
+    "card_name": "Faustus",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "DARKNESS",
+    "rarity": "RARE",
+    "base_power": 545,
+    "additional_power": 80,
+    "total_count": 31,
+    "supply_percent": 0.06,
+    "grades": {
+      "C": { "count": 21, "min_number": 2, "max_number": 49 },
+      "B": { "count": 7, "min_number": 1, "max_number": 56 },
+      "A": { "count": 2, "min_number": 4, "max_number": 21 },
+      "S": { "count": 1, "min_number": 48, "max_number": 48 }
+    }
+  },
+  {
+    "id": 51,
+    "card_name": "Amrok",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "NATURE",
+    "rarity": "RARE",
+    "base_power": 525,
+    "additional_power": 0,
+    "total_count": 2857,
+    "supply_percent": 1.9,
+    "ranks": {
+      "1": { "count": 2830, "min_number": 1, "max_number": 10131 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 1, "min_number": 8255, "max_number": 8255 },
+      "4": { "count": 5, "min_number": 2808, "max_number": 7049 },
+      "5": { "count": 21, "min_number": 840, "max_number": 8909 }
+    }
+  },
+  {
+    "id": 52,
+    "card_name": "Amrok",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "NATURE",
+    "rarity": "RARE",
+    "base_power": 525,
+    "additional_power": 80,
+    "total_count": 58,
+    "supply_percent": 0.12,
+    "grades": {
+      "C": { "count": 34, "min_number": 3, "max_number": 106 },
+      "B": { "count": 15, "min_number": 8, "max_number": 105 },
+      "A": { "count": 9, "min_number": 15, "max_number": 67 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 53,
+    "card_name": "Sylaë",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "NATURE",
+    "rarity": "ULTRA_RARE",
+    "base_power": 575,
+    "additional_power": 0,
+    "total_count": 2602,
+    "supply_percent": 4.34,
+    "ranks": {
+      "1": { "count": 2585, "min_number": 1, "max_number": 4867 },
+      "2": { "count": 1, "min_number": 3514, "max_number": 3514 },
+      "3": { "count": 2, "min_number": 3449, "max_number": 3548 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 14, "min_number": 1356, "max_number": 4095 }
+    }
+  },
+  {
+    "id": 54,
+    "card_name": "Sylaë",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "NATURE",
+    "rarity": "ULTRA_RARE",
+    "base_power": 575,
+    "additional_power": 80,
+    "total_count": 31,
+    "supply_percent": 0.1,
+    "grades": {
+      "C": { "count": 19, "min_number": 6, "max_number": 43 },
+      "B": { "count": 9, "min_number": 4, "max_number": 41 },
+      "A": { "count": 3, "min_number": 19, "max_number": 35 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 55,
+    "card_name": "Theran",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "UNCOMMON",
+    "base_power": 495,
+    "additional_power": 0,
+    "total_count": 1656,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1651, "min_number": 1, "max_number": 17856 },
+      "2": { "count": 1, "min_number": 7911, "max_number": 7911 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 4, "min_number": 6372, "max_number": 14690 }
+    }
+  },
+  {
+    "id": 56,
+    "card_name": "Theran",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "UNCOMMON",
+    "base_power": 495,
+    "additional_power": 80,
+    "total_count": 12,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 7, "min_number": 1, "max_number": 22 },
+      "B": { "count": 4, "min_number": 2, "max_number": 14 },
+      "A": { "count": 1, "min_number": 20, "max_number": 20 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 57,
+    "card_name": "Salamander",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "COMMON",
+    "base_power": 455,
+    "additional_power": 0,
+    "total_count": 2632,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2630, "min_number": 1, "max_number": 45242 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 1, "min_number": 16051, "max_number": 16051 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 1, "min_number": 25308, "max_number": 25308 }
+    }
+  },
+  {
+    "id": 58,
+    "card_name": "Salamander",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "COMMON",
+    "base_power": 455,
+    "additional_power": 80,
+    "total_count": 12,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 6, "min_number": 5, "max_number": 16 },
+      "B": { "count": 3, "min_number": 1, "max_number": 12 },
+      "A": { "count": 2, "min_number": 2, "max_number": 15 },
+      "S": { "count": 1, "min_number": 17, "max_number": 17 }
+    }
+  },
+  {
+    "id": 59,
+    "card_name": "Ethell",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "RARE",
+    "base_power": 550,
+    "additional_power": 0,
+    "total_count": 2841,
+    "supply_percent": 1.89,
+    "ranks": {
+      "1": { "count": 2822, "min_number": 1, "max_number": 10124 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 3, "min_number": 4048, "max_number": 9254 },
+      "4": { "count": 1, "min_number": 7221, "max_number": 7221 },
+      "5": { "count": 15, "min_number": 1324, "max_number": 8472 }
+    }
+  },
+  {
+    "id": 60,
+    "card_name": "Ethell",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "RARE",
+    "base_power": 550,
+    "additional_power": 80,
+    "total_count": 30,
+    "supply_percent": 0.06,
+    "grades": {
+      "C": { "count": 18, "min_number": 3, "max_number": 63 },
+      "B": { "count": 9, "min_number": 10, "max_number": 54 },
+      "A": { "count": 2, "min_number": 1, "max_number": 39 },
+      "S": { "count": 1, "min_number": 21, "max_number": 21 }
+    }
+  },
+  {
+    "id": 61,
+    "card_name": "Ifrit",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "UNCOMMON",
+    "base_power": 515,
+    "additional_power": 0,
+    "total_count": 1654,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1650, "min_number": 1, "max_number": 17251 },
+      "2": { "count": 1, "min_number": 1050, "max_number": 1050 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 3, "min_number": 6087, "max_number": 14674 }
+    }
+  },
+  {
+    "id": 62,
+    "card_name": "Ifrit",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "UNCOMMON",
+    "base_power": 515,
+    "additional_power": 80,
+    "total_count": 12,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 8, "min_number": 3, "max_number": 26 },
+      "B": { "count": 2, "min_number": 1, "max_number": 23 },
+      "A": { "count": 2, "min_number": 10, "max_number": 14 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 63,
+    "card_name": "Baram",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "ULTRA_RARE",
+    "base_power": 560,
+    "additional_power": 0,
+    "total_count": 2545,
+    "supply_percent": 4.24,
+    "ranks": {
+      "1": { "count": 2538, "min_number": 1, "max_number": 4863 },
+      "2": { "count": 1, "min_number": 2447, "max_number": 2447 },
+      "3": { "count": 1, "min_number": 1996, "max_number": 1996 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 5, "min_number": 1475, "max_number": 4051 }
+    }
+  },
+  {
+    "id": 64,
+    "card_name": "Baram",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "ULTRA_RARE",
+    "base_power": 560,
+    "additional_power": 80,
+    "total_count": 14,
+    "supply_percent": 0.05,
+    "grades": {
+      "C": { "count": 10, "min_number": 6, "max_number": 22 },
+      "B": { "count": 3, "min_number": 5, "max_number": 20 },
+      "A": { "count": 1, "min_number": 14, "max_number": 14 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 65,
+    "card_name": "Theran + Ifrit",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "FIRE",
+    "rarity": "UNCOMMON",
+    "base_power": 515,
+    "additional_power": 105,
+    "total_count": 10,
+    "supply_percent": 0.02,
+    "grades": {
+      "C": { "count": 6, "min_number": 1, "max_number": 12 },
+      "B": { "count": 3, "min_number": 3, "max_number": 13 },
+      "A": { "count": 1, "min_number": 8, "max_number": 8 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 66,
+    "card_name": "Kraken",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "COMMON",
+    "base_power": 460,
+    "additional_power": 0,
+    "total_count": 2626,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2624, "min_number": 1, "max_number": 44219 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 1, "min_number": 9749, "max_number": 9749 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 1, "min_number": 6879, "max_number": 6879 }
+    }
+  },
+  {
+    "id": 67,
+    "card_name": "Kraken",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "COMMON",
+    "base_power": 460,
+    "additional_power": 80,
+    "total_count": 7,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 6, "min_number": 1, "max_number": 9 },
+      "B": { "count": 1, "min_number": 8, "max_number": 8 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 68,
+    "card_name": "Hydra",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "UNCOMMON",
+    "base_power": 495,
+    "additional_power": 0,
+    "total_count": 1631,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1629, "min_number": 1, "max_number": 17874 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 2, "min_number": 7297, "max_number": 10483 }
+    }
+  },
+  {
+    "id": 69,
+    "card_name": "Hydra",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "UNCOMMON",
+    "base_power": 495,
+    "additional_power": 80,
+    "total_count": 8,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 5, "min_number": 3, "max_number": 14 },
+      "B": { "count": 2, "min_number": 2, "max_number": 8 },
+      "A": { "count": 1, "min_number": 9, "max_number": 9 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 70,
+    "card_name": "Leviathan",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "RARE",
+    "base_power": 535,
+    "additional_power": 0,
+    "total_count": 2767,
+    "supply_percent": 1.84,
+    "ranks": {
+      "1": { "count": 2760, "min_number": 1, "max_number": 10175 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 2, "min_number": 4269, "max_number": 5343 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 5, "min_number": 2466, "max_number": 7151 }
+    }
+  },
+  {
+    "id": 71,
+    "card_name": "Leviathan",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "RARE",
+    "base_power": 535,
+    "additional_power": 80,
+    "total_count": 21,
+    "supply_percent": 0.04,
+    "grades": {
+      "C": { "count": 12, "min_number": 5, "max_number": 54 },
+      "B": { "count": 7, "min_number": 1, "max_number": 42 },
+      "A": { "count": 1, "min_number": 18, "max_number": 18 },
+      "S": { "count": 1, "min_number": 16, "max_number": 16 }
+    }
+  },
+  {
+    "id": 72,
+    "card_name": "Sea dragon",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "COMMON",
+    "base_power": 475,
+    "additional_power": 0,
+    "total_count": 2634,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2630, "min_number": 1, "max_number": 44963 },
+      "2": { "count": 1, "min_number": 45096, "max_number": 45096 },
+      "3": { "count": 1, "min_number": 35283, "max_number": 35283 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 2, "min_number": 22341, "max_number": 24783 }
+    }
+  },
+  {
+    "id": 73,
+    "card_name": "Sea Dragon",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "COMMON",
+    "base_power": 475,
+    "additional_power": 80,
+    "total_count": 10,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 7, "min_number": 2, "max_number": 13 },
+      "B": { "count": 3, "min_number": 1, "max_number": 5 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 74,
+    "card_name": "Argonath",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "ULTRA_RARE",
+    "base_power": 555,
+    "additional_power": 0,
+    "total_count": 2532,
+    "supply_percent": 4.22,
+    "ranks": {
+      "1": { "count": 2527, "min_number": 1, "max_number": 4852 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 5, "min_number": 907, "max_number": 4646 }
+    }
+  },
+  {
+    "id": 75,
+    "card_name": "Argonath",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "ULTRA_RARE",
+    "base_power": 555,
+    "additional_power": 80,
+    "total_count": 12,
+    "supply_percent": 0.04,
+    "grades": {
+      "C": { "count": 8, "min_number": 2, "max_number": 18 },
+      "B": { "count": 2, "min_number": 10, "max_number": 16 },
+      "A": { "count": 1, "min_number": 6, "max_number": 6 },
+      "S": { "count": 1, "min_number": 12, "max_number": 12 }
+    }
+  },
+  {
+    "id": 76,
+    "card_name": "Leviathan + Argonath",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "WATER",
+    "rarity": "ULTRA_RARE",
+    "base_power": 555,
+    "additional_power": 105,
+    "total_count": 3,
+    "supply_percent": 0.02,
+    "grades": {
+      "C": { "count": 3, "min_number": 6, "max_number": 8 },
+      "B": { "count": 0, "min_number": null, "max_number": null },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 77,
+    "card_name": "Criscat",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "LIGHT",
+    "rarity": "COMMON",
+    "base_power": 480,
+    "additional_power": 0,
+    "total_count": 2627,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2623, "min_number": 1, "max_number": 44219 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 4, "min_number": 12051, "max_number": 26138 }
+    }
+  },
+  {
+    "id": 78,
+    "card_name": "Criscat",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "LIGHT",
+    "rarity": "COMMON",
+    "base_power": 480,
+    "additional_power": 80,
+    "total_count": 11,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 6, "min_number": 1, "max_number": 15 },
+      "B": { "count": 5, "min_number": 2, "max_number": 11 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 79,
+    "card_name": "Life Fireflies",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "LIGHT",
+    "rarity": "UNCOMMON",
+    "base_power": 515,
+    "additional_power": 0,
+    "total_count": 1644,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1641, "min_number": 1, "max_number": 17552 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 1, "min_number": 9837, "max_number": 9837 },
+      "5": { "count": 2, "min_number": 6081, "max_number": 10862 }
+    }
+  },
+  {
+    "id": 80,
+    "card_name": "Life Fireflies",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "LIGHT",
+    "rarity": "UNCOMMON",
+    "base_power": 515,
+    "additional_power": 80,
+    "total_count": 7,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 3, "min_number": 3, "max_number": 16 },
+      "B": { "count": 3, "min_number": 1, "max_number": 19 },
+      "A": { "count": 1, "min_number": 18, "max_number": 18 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 81,
+    "card_name": "Giant Eagle",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "LIGHT",
+    "rarity": "COMMON",
+    "base_power": 470,
+    "additional_power": 0,
+    "total_count": 2628,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2627, "min_number": 1, "max_number": 44218 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 1, "min_number": 39900, "max_number": 39900 }
+    }
+  },
+  {
+    "id": 82,
+    "card_name": "Giant Eagle",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "LIGHT",
+    "rarity": "COMMON",
+    "base_power": 470,
+    "additional_power": 80,
+    "total_count": 7,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 5, "min_number": 3, "max_number": 13 },
+      "B": { "count": 1, "min_number": 5, "max_number": 5 },
+      "A": { "count": 1, "min_number": 14, "max_number": 14 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 83,
+    "card_name": "Griffin",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "LIGHT",
+    "rarity": "COMMON",
+    "base_power": 460,
+    "additional_power": 0,
+    "total_count": 2612,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2610, "min_number": 1, "max_number": 44103 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 2, "min_number": 8142, "max_number": 14389 }
+    }
+  },
+  {
+    "id": 84,
+    "card_name": "Griffin",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "LIGHT",
+    "rarity": "COMMON",
+    "base_power": 460,
+    "additional_power": 80,
+    "total_count": 7,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 6, "min_number": 4, "max_number": 18 },
+      "B": { "count": 1, "min_number": 5, "max_number": 5 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 85,
+    "card_name": "Lify",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "LIGHT",
+    "rarity": "ULTRA_RARE",
+    "base_power": 565,
+    "additional_power": 0,
+    "total_count": 2536,
+    "supply_percent": 4.23,
+    "ranks": {
+      "1": { "count": 2526, "min_number": 1, "max_number": 4854 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 2, "min_number": 1451, "max_number": 2367 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 8, "min_number": 1492, "max_number": 3853 }
+    }
+  },
+  {
+    "id": 86,
+    "card_name": "Lify",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "LIGHT",
+    "rarity": "ULTRA_RARE",
+    "base_power": 565,
+    "additional_power": 80,
+    "total_count": 21,
+    "supply_percent": 0.07,
+    "grades": {
+      "C": { "count": 13, "min_number": 5, "max_number": 28 },
+      "B": { "count": 6, "min_number": 13, "max_number": 23 },
+      "A": { "count": 2, "min_number": 22, "max_number": 31 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 87,
+    "card_name": "Giant Eagle + Griffin",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "LIGHT",
+    "rarity": "COMMON",
+    "base_power": 470,
+    "additional_power": 105,
+    "total_count": 6,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 2, "min_number": 3, "max_number": 11 },
+      "B": { "count": 3, "min_number": 4, "max_number": 13 },
+      "A": { "count": 1, "min_number": 8, "max_number": 8 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 88,
+    "card_name": "Harpy",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "UNCOMMON",
+    "base_power": 505,
+    "additional_power": 0,
+    "total_count": 1631,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1629, "min_number": 1, "max_number": 17837 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 1, "min_number": 6525, "max_number": 6525 },
+      "5": { "count": 1, "min_number": 12206, "max_number": 12206 }
+    }
+  },
+  {
+    "id": 89,
+    "card_name": "Harpy",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "UNCOMMON",
+    "base_power": 505,
+    "additional_power": 80,
+    "total_count": 7,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 5, "min_number": 1, "max_number": 17 },
+      "B": { "count": 2, "min_number": 3, "max_number": 9 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 90,
+    "card_name": "Air Djinn",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "COMMON",
+    "base_power": 465,
+    "additional_power": 0,
+    "total_count": 2636,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2635, "min_number": 1, "max_number": 44965 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 1, "min_number": 16638, "max_number": 16638 }
+    }
+  },
+  {
+    "id": 91,
+    "card_name": "Air Djinn",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "COMMON",
+    "base_power": 465,
+    "additional_power": 80,
+    "total_count": 9,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 3, "min_number": 1, "max_number": 12 },
+      "B": { "count": 5, "min_number": 4, "max_number": 17 },
+      "A": { "count": 1, "min_number": 14, "max_number": 14 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 92,
+    "card_name": "Leon",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "RARE",
+    "base_power": 525,
+    "additional_power": 0,
+    "total_count": 2787,
+    "supply_percent": 1.86,
+    "ranks": {
+      "1": { "count": 2786, "min_number": 1, "max_number": 10176 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 1, "min_number": 4626, "max_number": 4626 }
+    }
+  },
+  {
+    "id": 93,
+    "card_name": "Leon",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "RARE",
+    "base_power": 525,
+    "additional_power": 80,
+    "total_count": 22,
+    "supply_percent": 0.04,
+    "grades": {
+      "C": { "count": 16, "min_number": 1, "max_number": 45 },
+      "B": { "count": 5, "min_number": 4, "max_number": 44 },
+      "A": { "count": 1, "min_number": 29, "max_number": 29 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 94,
+    "card_name": "Pegasus",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "COMMON",
+    "base_power": 485,
+    "additional_power": 0,
+    "total_count": 2631,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2628, "min_number": 1, "max_number": 45242 },
+      "2": { "count": 2, "min_number": 10646, "max_number": 18322 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 1, "min_number": 35889, "max_number": 35889 }
+    }
+  },
+  {
+    "id": 95,
+    "card_name": "Pegasus",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "COMMON",
+    "base_power": 485,
+    "additional_power": 80,
+    "total_count": 13,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 9, "min_number": 1, "max_number": 52 },
+      "B": { "count": 3, "min_number": 2, "max_number": 33 },
+      "A": { "count": 1, "min_number": 12, "max_number": 12 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 96,
+    "card_name": "Nephesh",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "RARE",
+    "base_power": 540,
+    "additional_power": 0,
+    "total_count": 2807,
+    "supply_percent": 1.87,
+    "ranks": {
+      "1": { "count": 2798, "min_number": 1, "max_number": 10162 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 2, "min_number": 929, "max_number": 6542 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 7, "min_number": 2465, "max_number": 7435 }
+    }
+  },
+  {
+    "id": 97,
+    "card_name": "Nephesh",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "RARE",
+    "base_power": 540,
+    "additional_power": 80,
+    "total_count": 37,
+    "supply_percent": 0.07,
+    "grades": {
+      "C": { "count": 18, "min_number": 2, "max_number": 81 },
+      "B": { "count": 11, "min_number": 1, "max_number": 49 },
+      "A": { "count": 6, "min_number": 5, "max_number": 76 },
+      "S": { "count": 2, "min_number": 17, "max_number": 61 }
+    }
+  },
+  {
+    "id": 98,
+    "card_name": "Pegasus + Nephesh",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "AIR",
+    "rarity": "RARE",
+    "base_power": 540,
+    "additional_power": 105,
+    "total_count": 10,
+    "supply_percent": 0.04,
+    "grades": {
+      "C": { "count": 3, "min_number": 8, "max_number": 25 },
+      "B": { "count": 4, "min_number": 5, "max_number": 26 },
+      "A": { "count": 2, "min_number": 13, "max_number": 14 },
+      "S": { "count": 1, "min_number": 18, "max_number": 18 }
+    }
+  },
+  {
+    "id": 99,
+    "card_name": "Weaver",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "DARKNESS",
+    "rarity": "UNCOMMON",
+    "base_power": 505,
+    "additional_power": 0,
+    "total_count": 1655,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1652, "min_number": 1, "max_number": 17509 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 3, "min_number": 4746, "max_number": 7496 }
+    }
+  },
+  {
+    "id": 100,
+    "card_name": "Weaver",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "DARKNESS",
+    "rarity": "UNCOMMON",
+    "base_power": 505,
+    "additional_power": 80,
+    "total_count": 12,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 7, "min_number": 1, "max_number": 16 },
+      "B": { "count": 2, "min_number": 2, "max_number": 14 },
+      "A": { "count": 2, "min_number": 5, "max_number": 17 },
+      "S": { "count": 1, "min_number": 11, "max_number": 11 }
+    }
+  },
+  {
+    "id": 101,
+    "card_name": "Skeleton",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "DARKNESS",
+    "rarity": "COMMON",
+    "base_power": 455,
+    "additional_power": 0,
+    "total_count": 2712,
+    "supply_percent": 0.34,
+    "ranks": {
+      "1": { "count": 2708, "min_number": 1, "max_number": 44218 },
+      "2": { "count": 2, "min_number": 1351, "max_number": 3500 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 2, "min_number": 1405, "max_number": 7857 }
+    }
+  },
+  {
+    "id": 102,
+    "card_name": "Skeleton",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "DARKNESS",
+    "rarity": "COMMON",
+    "base_power": 455,
+    "additional_power": 80,
+    "total_count": 11,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 8, "min_number": 2, "max_number": 25 },
+      "B": { "count": 1, "min_number": 3, "max_number": 3 },
+      "A": { "count": 1, "min_number": 5, "max_number": 5 },
+      "S": { "count": 1, "min_number": 19, "max_number": 19 }
+    }
+  },
+  {
+    "id": 103,
+    "card_name": "Lich",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "DARKNESS",
+    "rarity": "COMMON",
+    "base_power": 470,
+    "additional_power": 0,
+    "total_count": 2690,
+    "supply_percent": 0.34,
+    "ranks": {
+      "1": { "count": 2688, "min_number": 1, "max_number": 44103 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 2, "min_number": 19616, "max_number": 31777 }
+    }
+  },
+  {
+    "id": 104,
+    "card_name": "Lich",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "DARKNESS",
+    "rarity": "COMMON",
+    "base_power": 470,
+    "additional_power": 80,
+    "total_count": 14,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 8, "min_number": 1, "max_number": 17 },
+      "B": { "count": 4, "min_number": 10, "max_number": 22 },
+      "A": { "count": 2, "min_number": 5, "max_number": 20 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 105,
+    "card_name": "Astrogant",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "DARKNESS",
+    "rarity": "UNCOMMON",
+    "base_power": 515,
+    "additional_power": 0,
+    "total_count": 1686,
+    "supply_percent": 0.42,
+    "ranks": {
+      "1": { "count": 1683, "min_number": 1, "max_number": 17867 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 3, "min_number": 5062, "max_number": 16196 }
+    }
+  },
+  {
+    "id": 106,
+    "card_name": "Astrogant",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "DARKNESS",
+    "rarity": "UNCOMMON",
+    "base_power": 515,
+    "additional_power": 80,
+    "total_count": 16,
+    "supply_percent": 0.02,
+    "grades": {
+      "C": { "count": 8, "min_number": 4, "max_number": 28 },
+      "B": { "count": 6, "min_number": 3, "max_number": 22 },
+      "A": { "count": 2, "min_number": 25, "max_number": 32 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 107,
+    "card_name": "Nox",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "DARKNESS",
+    "rarity": "ULTRA_RARE",
+    "base_power": 555,
+    "additional_power": 0,
+    "total_count": 2547,
+    "supply_percent": 4.25,
+    "ranks": {
+      "1": { "count": 2538, "min_number": 1, "max_number": 4855 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 3, "min_number": 1586, "max_number": 3791 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 6, "min_number": 1020, "max_number": 4525 }
+    }
+  },
+  {
+    "id": 108,
+    "card_name": "Nox",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "DARKNESS",
+    "rarity": "ULTRA_RARE",
+    "base_power": 555,
+    "additional_power": 80,
+    "total_count": 16,
+    "supply_percent": 0.05,
+    "grades": {
+      "C": { "count": 6, "min_number": 5, "max_number": 39 },
+      "B": { "count": 8, "min_number": 6, "max_number": 38 },
+      "A": { "count": 2, "min_number": 4, "max_number": 35 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 109,
+    "card_name": "Nox + Skeleton",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "DARKNESS",
+    "rarity": "ULTRA_RARE",
+    "base_power": 555,
+    "additional_power": 120,
+    "total_count": 1,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 0, "min_number": null, "max_number": null },
+      "B": { "count": 1, "min_number": 4, "max_number": 4 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 110,
+    "card_name": "Stone Golem",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "EARTH",
+    "rarity": "UNCOMMON",
+    "base_power": 510,
+    "additional_power": 0,
+    "total_count": 1654,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1653, "min_number": 1, "max_number": 17870 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 1, "min_number": 9324, "max_number": 9324 },
+      "5": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 111,
+    "card_name": "Stone Golem",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "EARTH",
+    "rarity": "UNCOMMON",
+    "base_power": 510,
+    "additional_power": 80,
+    "total_count": 7,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 6, "min_number": 1, "max_number": 16 },
+      "B": { "count": 1, "min_number": 12, "max_number": 12 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 112,
+    "card_name": "Hannibal",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "EARTH",
+    "rarity": "RARE",
+    "base_power": 530,
+    "additional_power": 0,
+    "total_count": 2819,
+    "supply_percent": 1.88,
+    "ranks": {
+      "1": { "count": 2804, "min_number": 1, "max_number": 10175 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 1, "min_number": 8543, "max_number": 8543 },
+      "4": { "count": 2, "min_number": 3431, "max_number": 5803 },
+      "5": { "count": 12, "min_number": 878, "max_number": 5215 }
+    }
+  },
+  {
+    "id": 113,
+    "card_name": "Hannibal",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "EARTH",
+    "rarity": "RARE",
+    "base_power": 530,
+    "additional_power": 80,
+    "total_count": 45,
+    "supply_percent": 0.09,
+    "grades": {
+      "C": { "count": 24, "min_number": 2, "max_number": 83 },
+      "B": { "count": 12, "min_number": 4, "max_number": 70 },
+      "A": { "count": 7, "min_number": 3, "max_number": 78 },
+      "S": { "count": 2, "min_number": 21, "max_number": 58 }
+    }
+  },
+  {
+    "id": 114,
+    "card_name": "Troll",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "EARTH",
+    "rarity": "COMMON",
+    "base_power": 455,
+    "additional_power": 0,
+    "total_count": 2611,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2607, "min_number": 1, "max_number": 44963 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 1, "min_number": 18844, "max_number": 18844 },
+      "5": { "count": 3, "min_number": 1961, "max_number": 24784 }
+    }
+  },
+  {
+    "id": 115,
+    "card_name": "Troll",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "EARTH",
+    "rarity": "COMMON",
+    "base_power": 455,
+    "additional_power": 80,
+    "total_count": 15,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 11, "min_number": 2, "max_number": 37 },
+      "B": { "count": 4, "min_number": 1, "max_number": 16 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 116,
+    "card_name": "Giant",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "EARTH",
+    "rarity": "COMMON",
+    "base_power": 475,
+    "additional_power": 0,
+    "total_count": 2628,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2624, "min_number": 1, "max_number": 45240 },
+      "2": { "count": 1, "min_number": 5828, "max_number": 5828 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 3, "min_number": 1964, "max_number": 38076 }
+    }
+  },
+  {
+    "id": 117,
+    "card_name": "Giant",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "EARTH",
+    "rarity": "COMMON",
+    "base_power": 475,
+    "additional_power": 80,
+    "total_count": 14,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 7, "min_number": 3, "max_number": 31 },
+      "B": { "count": 4, "min_number": 5, "max_number": 18 },
+      "A": { "count": 3, "min_number": 1, "max_number": 11 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 118,
+    "card_name": "Rockworm",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "EARTH",
+    "rarity": "UNCOMMON",
+    "base_power": 490,
+    "additional_power": 0,
+    "total_count": 1641,
+    "supply_percent": 0.41,
+    "ranks": {
+      "1": { "count": 1640, "min_number": 1, "max_number": 17945 },
+      "2": { "count": 1, "min_number": 7062, "max_number": 7062 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 119,
+    "card_name": "Rockworm",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "EARTH",
+    "rarity": "UNCOMMON",
+    "base_power": 490,
+    "additional_power": 80,
+    "total_count": 11,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 6, "min_number": 3, "max_number": 16 },
+      "B": { "count": 2, "min_number": 1, "max_number": 21 },
+      "A": { "count": 3, "min_number": 5, "max_number": 20 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 120,
+    "card_name": "Troll + Giant",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "EARTH",
+    "rarity": "COMMON",
+    "base_power": 475,
+    "additional_power": 105,
+    "total_count": 7,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 4, "min_number": 3, "max_number": 12 },
+      "B": { "count": 3, "min_number": 6, "max_number": 8 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 121,
+    "card_name": "Kobold",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "NATURE",
+    "rarity": "COMMON",
+    "base_power": 465,
+    "additional_power": 0,
+    "total_count": 2652,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2648, "min_number": 1, "max_number": 44964 },
+      "2": { "count": 1, "min_number": 7857, "max_number": 7857 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 3, "min_number": 3399, "max_number": 22774 }
+    }
+  },
+  {
+    "id": 122,
+    "card_name": "Kobold",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "NATURE",
+    "rarity": "COMMON",
+    "base_power": 465,
+    "additional_power": 80,
+    "total_count": 12,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 6, "min_number": 8, "max_number": 25 },
+      "B": { "count": 4, "min_number": 1, "max_number": 13 },
+      "A": { "count": 2, "min_number": 20, "max_number": 24 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 123,
+    "card_name": "Ravix",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "NATURE",
+    "rarity": "RARE",
+    "base_power": 540,
+    "additional_power": 0,
+    "total_count": 2809,
+    "supply_percent": 1.87,
+    "ranks": {
+      "1": { "count": 2800, "min_number": 1, "max_number": 10133 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 1, "min_number": 7731, "max_number": 7731 },
+      "4": { "count": 1, "min_number": 2313, "max_number": 2313 },
+      "5": { "count": 7, "min_number": 1720, "max_number": 7505 }
+    }
+  },
+  {
+    "id": 124,
+    "card_name": "Ravix",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "NATURE",
+    "rarity": "RARE",
+    "base_power": 540,
+    "additional_power": 80,
+    "total_count": 37,
+    "supply_percent": 0.07,
+    "grades": {
+      "C": { "count": 23, "min_number": 1, "max_number": 75 },
+      "B": { "count": 9, "min_number": 9, "max_number": 63 },
+      "A": { "count": 5, "min_number": 2, "max_number": 76 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 125,
+    "card_name": "Dryad",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "NATURE",
+    "rarity": "UNCOMMON",
+    "base_power": 520,
+    "additional_power": 0,
+    "total_count": 1669,
+    "supply_percent": 0.42,
+    "ranks": {
+      "1": { "count": 1662, "min_number": 1, "max_number": 17948 },
+      "2": { "count": 2, "min_number": 603, "max_number": 13057 },
+      "3": { "count": 2, "min_number": 2618, "max_number": 10072 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 3, "min_number": 12572, "max_number": 16874 }
+    }
+  },
+  {
+    "id": 126,
+    "card_name": "Dryad",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "NATURE",
+    "rarity": "UNCOMMON",
+    "base_power": 520,
+    "additional_power": 80,
+    "total_count": 12,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 8, "min_number": 1, "max_number": 29 },
+      "B": { "count": 3, "min_number": 3, "max_number": 13 },
+      "A": { "count": 1, "min_number": 8, "max_number": 8 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 127,
+    "card_name": "Kokopelli",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "NATURE",
+    "rarity": "COMMON",
+    "base_power": 485,
+    "additional_power": 0,
+    "total_count": 2643,
+    "supply_percent": 0.33,
+    "ranks": {
+      "1": { "count": 2641, "min_number": 1, "max_number": 44964 },
+      "2": { "count": 1, "min_number": 5828, "max_number": 5828 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 1, "min_number": 24015, "max_number": 24015 },
+      "5": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 128,
+    "card_name": "Kokopelli",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "NATURE",
+    "rarity": "COMMON",
+    "base_power": 485,
+    "additional_power": 80,
+    "total_count": 5,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 4, "min_number": 4, "max_number": 14 },
+      "B": { "count": 1, "min_number": 1, "max_number": 1 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 129,
+    "card_name": "Olisol",
+    "card_type": "BATTLE",
+    "advancement": "STANDARD",
+    "arkhome": "NATURE",
+    "rarity": "ULTRA_RARE",
+    "base_power": 560,
+    "additional_power": 0,
+    "total_count": 2564,
+    "supply_percent": 4.27,
+    "ranks": {
+      "1": { "count": 2557, "min_number": 1, "max_number": 4878 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 1, "min_number": 4747, "max_number": 4747 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 6, "min_number": 2338, "max_number": 3976 }
+    }
+  },
+  {
+    "id": 130,
+    "card_name": "Olisol",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "NATURE",
+    "rarity": "ULTRA_RARE",
+    "base_power": 560,
+    "additional_power": 80,
+    "total_count": 17,
+    "supply_percent": 0.06,
+    "grades": {
+      "C": { "count": 10, "min_number": 4, "max_number": 29 },
+      "B": { "count": 5, "min_number": 8, "max_number": 22 },
+      "A": { "count": 2, "min_number": 17, "max_number": 28 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 131,
+    "card_name": "Olisol + Ravix",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "NATURE",
+    "rarity": "ULTRA_RARE",
+    "base_power": 560,
+    "additional_power": 105,
+    "total_count": 5,
+    "supply_percent": 0.03,
+    "grades": {
+      "C": { "count": 4, "min_number": 6, "max_number": 12 },
+      "B": { "count": 0, "min_number": null, "max_number": null },
+      "A": { "count": 1, "min_number": 10, "max_number": 10 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 132,
+    "card_name": "Alvilid",
+    "card_type": "FIELD",
+    "advancement": "STANDARD",
+    "arkhome": "WATER",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 0,
+    "total_count": 1839,
+    "supply_percent": 0.46,
+    "ranks": {
+      "1": { "count": 1835, "min_number": 1, "max_number": 6593 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 2, "min_number": 1933, "max_number": 3640 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 2, "min_number": 923, "max_number": 4098 }
+    }
+  },
+  {
+    "id": 133,
+    "card_name": "Alvilid",
+    "card_type": "FIELD",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "WATER",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 70,
+    "total_count": 4,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 1, "min_number": 5, "max_number": 5 },
+      "B": { "count": 1, "min_number": 4, "max_number": 4 },
+      "A": { "count": 2, "min_number": 3, "max_number": 6 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 134,
+    "card_name": "Acongua",
+    "card_type": "FIELD",
+    "advancement": "STANDARD",
+    "arkhome": "EARTH",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 0,
+    "total_count": 1800,
+    "supply_percent": 0.45,
+    "ranks": {
+      "1": { "count": 1800, "min_number": 1, "max_number": 6600 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 135,
+    "card_name": "Acongua",
+    "card_type": "FIELD",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "EARTH",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 70,
+    "total_count": 5,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 2, "min_number": 8, "max_number": 9 },
+      "B": { "count": 2, "min_number": 3, "max_number": 6 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 1, "min_number": 7, "max_number": 7 }
+    }
+  },
+  {
+    "id": 136,
+    "card_name": "Nepthys",
+    "card_type": "FIELD",
+    "advancement": "STANDARD",
+    "arkhome": "LIGHT",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 0,
+    "total_count": 4784,
+    "supply_percent": 1.2,
+    "ranks": {
+      "1": { "count": 4780, "min_number": 1, "max_number": 8000 },
+      "2": { "count": 3, "min_number": 4700, "max_number": 5567 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 1, "min_number": 5611, "max_number": 5611 },
+      "5": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 137,
+    "card_name": "Nepthys",
+    "card_type": "FIELD",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "LIGHT",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 70,
+    "total_count": 4,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 3, "min_number": 3, "max_number": 7 },
+      "B": { "count": 1, "min_number": 4, "max_number": 4 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 138,
+    "card_name": "Ashance",
+    "card_type": "FIELD",
+    "advancement": "STANDARD",
+    "arkhome": "FIRE",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 0,
+    "total_count": 1813,
+    "supply_percent": 0.45,
+    "ranks": {
+      "1": { "count": 1811, "min_number": 1, "max_number": 6405 },
+      "2": { "count": 1, "min_number": 1935, "max_number": 1935 },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 1, "min_number": 4353, "max_number": 4353 }
+    }
+  },
+  {
+    "id": 139,
+    "card_name": "Ashance",
+    "card_type": "FIELD",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "FIRE",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 70,
+    "total_count": 5,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 4, "min_number": 3, "max_number": 6 },
+      "B": { "count": 1, "min_number": 9, "max_number": 9 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 140,
+    "card_name": "Sahla",
+    "card_type": "FIELD",
+    "advancement": "STANDARD",
+    "arkhome": "AIR",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 0,
+    "total_count": 1805,
+    "supply_percent": 0.45,
+    "ranks": {
+      "1": { "count": 1804, "min_number": 1, "max_number": 6535 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 1, "min_number": 2458, "max_number": 2458 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 141,
+    "card_name": "Sahla",
+    "card_type": "FIELD",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "AIR",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 70,
+    "total_count": 5,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 4, "min_number": 3, "max_number": 6 },
+      "B": { "count": 0, "min_number": null, "max_number": null },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 1, "min_number": 7, "max_number": 7 }
+    }
+  },
+  {
+    "id": 142,
+    "card_name": "Orcunion",
+    "card_type": "FIELD",
+    "advancement": "STANDARD",
+    "arkhome": "NATURE",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 0,
+    "total_count": 1788,
+    "supply_percent": 0.45,
+    "ranks": {
+      "1": { "count": 1788, "min_number": 1, "max_number": 6575 },
+      "2": { "count": 0, "min_number": null, "max_number": null },
+      "3": { "count": 0, "min_number": null, "max_number": null },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 143,
+    "card_name": "Orcunion",
+    "card_type": "FIELD",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "NATURE",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 70,
+    "total_count": 4,
+    "supply_percent": 0,
+    "grades": {
+      "C": { "count": 3, "min_number": 3, "max_number": 6 },
+      "B": { "count": 1, "min_number": 7, "max_number": 7 },
+      "A": { "count": 0, "min_number": null, "max_number": null },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 144,
+    "card_name": "Massada",
+    "card_type": "FIELD",
+    "advancement": "STANDARD",
+    "arkhome": "DARKNESS",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 0,
+    "total_count": 1807,
+    "supply_percent": 0.45,
+    "ranks": {
+      "1": { "count": 1804, "min_number": 1, "max_number": 6594 },
+      "2": { "count": 1, "min_number": 1131, "max_number": 1131 },
+      "3": { "count": 2, "min_number": 3544, "max_number": 3735 },
+      "4": { "count": 0, "min_number": null, "max_number": null },
+      "5": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 145,
+    "card_name": "Massada",
+    "card_type": "FIELD",
+    "advancement": "ALTERNATIVE",
+    "arkhome": "DARKNESS",
+    "rarity": "UNCOMMON",
+    "base_power": 50,
+    "additional_power": 70,
+    "total_count": 5,
+    "supply_percent": 0.01,
+    "grades": {
+      "C": { "count": 2, "min_number": 5, "max_number": 7 },
+      "B": { "count": 2, "min_number": 3, "max_number": 10 },
+      "A": { "count": 1, "min_number": 4, "max_number": 4 },
+      "S": { "count": 0, "min_number": null, "max_number": null }
+    }
+  },
+  {
+    "id": 367,
+    "card_name": "Hannibal + Honora",
+    "card_type": "BATTLE",
+    "advancement": "ALTERNATIVE_COMBO",
+    "arkhome": "EARTH",
+    "rarity": "SPECIAL_RARE",
+    "base_power": 530,
+    "additional_power": 85,
+    "total_count": 6188,
+    "supply_percent": 30.94,
+    "grades": {
+      "C": { "count": 885, "min_number": 4864, "max_number": 6184 },
+      "B": { "count": 328, "min_number": 4863, "max_number": 6178 },
+      "A": { "count": 96, "min_number": 4896, "max_number": 6181 },
+      "S": { "count": 13, "min_number": 4947, "max_number": 6048 },
+      "undefined": { "count": 53, "min_number": 52, "max_number": 4858 }
+    }
+  }
+]
